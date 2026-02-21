@@ -1,5 +1,3 @@
-README.md
-
 # Projeto Curva ABC
 
 ## Descrição
